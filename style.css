@@ -1,0 +1,54 @@
+
+#hi {
+	color: purple;
+	font-size:3em;
+	font-family:cursive;
+	background-color: rgb(160, 207, 64);
+
+} 
+#middle {
+	color:red;
+	font-family:cursive;
+	background-color: black;
+	font-size:2em;
+
+}
+h2{
+	color: blue;
+	font-family:cursive;
+	font-size: 5em;
+
+}
+p{
+
+color: orange;
+font-family: cursive;
+font-size: 5em;
+
+}
+
+#third ul li{
+
+	color:green;
+	background-color:black;
+	font-size:2em;
+	font-family: Arial;
+	font-weight: 2;
+	list-style-type:none;
+}
+
+#uniquename {
+	color:red
+	font-weight:3;
+	font-family:cursive;
+	font-size:3em;
+	background-color:green;
+	background-repeat: repeat-x;
+}
+	
+#fourth ul li:nth-child(2){
+	color:blue;
+	font-family: cursive;
+	font-size: 4em;
+	background-color:black; 
+}
